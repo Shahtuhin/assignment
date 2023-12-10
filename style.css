@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    margin-left: 10%;
+}
+.half-width{
+    width: 45%;
+    float: left;
+    padding-bottom: 5%;
+}
+.half-width h1{
+    font-size: 50px;
+    color: black, gray;
+    font-weight:bold;
+    margin: 0;
+
+
+}
+#name{
+    color:rgb(209, 138, 105);
+}
+.half-width a{
+    background-image:linear-gradient(to left,rgb(0, 115, 128),rgb(0, 98, 255));
+    border: none;
+    color: white;
+    padding: 16px 40px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius:5px;
+}
+section{
+    height: 500px;
+    margin: 0%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.mid-banner{
+    margin-left: 10%;
+}
+#abt{
+    color: dimgrey;
+    margin-left: 70px;
+}
+#button{
+    margin-left: 70px;
+}
+#last{
+    color: orange;
+
+}
+.last-part{
+    margin-top: 15%;
+    text-align: center;
+    content: "";
+  clear: both;
+  display: table;
+}
+.last-part h1{
+    font-size: 40px;
+}
+.cloum{
+  float: left;
+  padding: 10px 10px;
+  border-radius: 5%;
+  width: 25%;
+  box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+  margin: 2%;
+}
+
+.cloum h1{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2%;
+}
+.cloum p{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2%;
+    color: dimgray;
+}
+
